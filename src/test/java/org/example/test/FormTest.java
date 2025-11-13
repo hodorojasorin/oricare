@@ -13,9 +13,9 @@ public class FormTest extends Basic {
 
     public WebDriver driver;
     public static String URL = "https://demoqa.com/automation-practice-form";
-    public static String FIRST_NAME = "Catalin";
-    public static String LAST_NAME = "Paladi";
-    public static String EMAIL = "paladicatalin@gmail.com";
+    public static String FIRST_NAME = "Hodoroja";
+    public static String LAST_NAME = "Sorin";
+    public static String EMAIL = "hsorin@gmail.com";
     public static String GENDER = "Male";
     public static String USER_NUMBER = "1234567890";
     public static String SUBJECT = "Maths";
